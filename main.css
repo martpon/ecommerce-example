@@ -181,3 +181,8 @@ header {
     flex-direction: row;
 }
 /* esto es el header */
+
+.main-page-anchors-container {
+    background-image: url("./assets/1-img-1538255563-1660070345-7cad5bcc2109388378406f80c038df0b1660070345-640-0.webp");
+    
+}
